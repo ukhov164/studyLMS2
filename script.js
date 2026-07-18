@@ -1,6 +1,6 @@
 class ImageSlider {
     constructor() {
-        // Массив изображений (замените на свои URL)
+        // Массив изображений
         this.images = [
             'https://twizz.ru/wp-content/uploads/-000//1/short-neck13.jpg',
             'https://twizz.ru/wp-content/uploads/-000//1/short-neck15.jpg',
